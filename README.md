@@ -28,7 +28,7 @@ Use Ollama to translate languages locally. Created for translations in projects 
 ### REST
 
 ```
-http://localhost:11434/api/generate
+POST http://localhost:11434/api/generate
 
 {
   "model": "en_de",
