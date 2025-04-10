@@ -16,7 +16,7 @@ Use Ollama to translate languages locally. Created for translations in projects 
 ## Setup
 
 1. Clone this repo
-2. Create the model you want (e.g. for german to english translation: `ollama create de_en -f ./de_en.Modelfile`)
+2. Create the model you want (e.g. for english to german translation: `ollama create en_de -f ./en_de.Modelfile`)
 3. Optional: Run the ollama service: `ollama serve`
 
 ## Usage
